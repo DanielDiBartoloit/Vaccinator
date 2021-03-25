@@ -1,0 +1,8 @@
+Nombre :Daniel Di Bartolo
+Direccion :quepesado
+Dni :3182423423
+Fecha de naciomiento :12/10/1233
+Sexo :hombre
+Cormobilidad :Glucemia
+Centro de atencion :Hospital Fernandez
+Email: holamundo@gmail.com

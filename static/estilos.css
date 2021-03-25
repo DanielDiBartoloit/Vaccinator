@@ -1,0 +1,12 @@
+body{background-color: rgb(144, 255, 255);}
+.menu{font-size: 20px;
+    letter-spacing: 1px;
+    text-transform: capitalize;}
+.logo{background-color: rgb(51, 245, 245);}
+
+.cancion{
+    font-size: 50px;
+    width: 100px;
+}
+.titulo{font-size: 100px;}
+
